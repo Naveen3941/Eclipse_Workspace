@@ -3,7 +3,6 @@ package example;
 public class CheckAlternative {
 
 	public static void main(String[] args) {
-		System.out.println("main method....");
      boolean flag=false;
      int count=0;
      int arr[]= {10,0,10,10,0};
