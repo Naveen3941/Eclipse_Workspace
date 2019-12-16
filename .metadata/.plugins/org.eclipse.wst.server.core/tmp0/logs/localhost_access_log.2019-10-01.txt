@@ -1,0 +1,5 @@
+127.0.0.1 - - [01/Oct/2019:15:32:30 +0530] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [01/Oct/2019:15:32:31 +0530] "GET /JdbcTemplateWithSpringMVC/ HTTP/1.1" 200 76
+0:0:0:0:0:0:0:1 - - [01/Oct/2019:15:32:34 +0530] "GET /JdbcTemplateWithSpringMVC/empform HTTP/1.1" 404 1069
+0:0:0:0:0:0:0:1 - - [01/Oct/2019:15:32:37 +0530] "GET /JdbcTemplateWithSpringMVC/viewemp HTTP/1.1" 404 1069
+127.0.0.1 - - [01/Oct/2019:15:35:48 +0530] "GET / HTTP/1.1" 404 1036

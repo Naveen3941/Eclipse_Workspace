@@ -1,0 +1,12 @@
+
+ysquid:S1192"IDefine a constant instead of duplicating this literal "wrangler" 6 times.(¿ãŠ­H¥RCRITICALZ
+CODE_SMELL
+|squid:S1192"GDefine a constant instead of duplicating this literal "armani" 4 times.(Ÿø²ˆýÿÿÿÿH¦RCRITICALZ
+CODE_SMELL
+‹squid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸïºÁùÿÿÿÿH§RMINORZ
+CODE_SMELL
+j
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ÒúîáþÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(›Æ½ÉH©RMAJORZ
+CODE_SMELL

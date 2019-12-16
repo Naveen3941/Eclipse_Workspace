@@ -1,0 +1,10 @@
+
+qsquid:S1197"8Move the array designator from the variable to the type.(¾™§”ûÿÿÿÿ8³â•×Ñ-H£RMINORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñã½¹ÿÿÿÿÿ8³â•×Ñ-H¤RMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8³â•×Ñ-H¥RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(òüà§þÿÿÿÿ8³â•×Ñ-H¦RMAJORZ
+CODE_SMELL

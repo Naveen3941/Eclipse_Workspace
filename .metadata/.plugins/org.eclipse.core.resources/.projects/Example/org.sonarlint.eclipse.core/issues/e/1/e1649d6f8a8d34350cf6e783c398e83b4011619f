@@ -1,0 +1,13 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(°¯ÿÁüÿÿÿÿ8ÁùõäÍ-H†RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8ÁùõäÍ-H‡RMAJORZ
+CODE_SMELL
+qsquid:S1197	"8Move the array designator from the variable to the type.(ì…ãüüÿÿÿÿ8ÁùõäÍ-H…RMINORZ
+CODE_SMELL
+ksquid:S1197"8Move the array designator from the variable to the type.(õıÈ%8ÁùõäÍ-HˆRMINORZ
+CODE_SMELL
+ˆsquid:S1450"URemove the "length" field and declare it as a local variable in the relevant methods.( Ÿ®x8ÁùõäÍ-H„RMINORZ
+CODE_SMELL

@@ -1,0 +1,25 @@
+package example;
+
+public class Example4 {
+
+	public static void main(String[] args) {
+		for(int i=20;i<=25;i++)
+		{
+			System.out.println("i = "+i);
+			if(i%11==0)
+			{
+				break;
+			}
+			for(int j=1;j<10;j++)
+			{
+				if(5/i==1)
+				{
+					break;
+				}
+				System.out.println("j = "+j);
+			}
+		}
+
+	}
+
+}

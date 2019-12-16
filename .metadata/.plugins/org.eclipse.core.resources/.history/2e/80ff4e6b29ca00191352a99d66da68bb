@@ -1,0 +1,42 @@
+package example;
+
+public class SmallestSelection {
+
+	public static void selectionSortLargestEle(int[] array)
+	{
+		int smallest=0;
+		int small;
+		int temp=0;
+		for(int i=array.length;i<=0;i--)
+		{
+			small=array[array.length-1];
+			temp=0;
+			for(int j=array.length;j<=0;j--)
+			{
+				if(array[j]>array[j-1] || small>array[j])
+				{
+					temp=array[j];
+					array[j]=small;
+					small=temp;
+					array[smallest]=small;
+					
+				}
+			}
+			smallest++;
+		}
+		for(int b:array)
+		{
+			System.out.print(b+" ");
+		}
+	}
+	
+	
+	public static void main(String[] args) {
+		int[] a= {11,15,12,10};
+		selectionSortLargestEle(a);
+		
+		
+    
+	}
+
+}

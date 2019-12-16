@@ -1,0 +1,33 @@
+package example;
+
+public class SelectionSort {
+      
+	public static void selectionSortLargestEle(int[] array)
+	{
+		int largest=array.length-1;
+		int large=0;
+		for(int i=0;i<largest;i++)
+		{
+			for(int j=0;j<largest-1;j++)
+			{
+				if(array[j]>array[j+1])
+				{
+					large=array[j];
+				}
+			}
+		}
+		for(int b:array)
+		{
+			System.out.print(b+" ");
+		}
+	}
+	
+	
+	public static void main(String[] args) {
+		int[] a= {11,15,25,78,34,99};
+		selectionSortLargestEle(a);
+		
+    
+	}
+
+}

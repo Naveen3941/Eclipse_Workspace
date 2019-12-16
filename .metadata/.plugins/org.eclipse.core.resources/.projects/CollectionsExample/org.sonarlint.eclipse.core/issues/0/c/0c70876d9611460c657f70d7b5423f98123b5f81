@@ -1,0 +1,15 @@
+
+ƒsquid:S39737"GUse indentation to denote the code conditionally executed by this "if".(©âèåùÿÿÿÿ8µ¿ôÓ-Hé	RCRITICALZ
+CODE_SMELL
+nsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ˆ§ÙÔ-Hñ	RMINORZ
+CODE_SMELL
+psquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ˆ§ÙÔ-Hò	RMINORZ
+CODE_SMELL
+q
+squid:S106]"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8ƒüòÓ-Hë	RMAJORZ
+CODE_SMELL
+squid:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(”Ö»8Àà¶¥Ò-Hè	RMINORZ
+CODE_SMELL
+}squid:S1206("PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8îËÚÔ-Hõ	RMINORZBUG
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ğÜşŠ8îËÚÔ-Hö	RMAJORZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+
+_squid:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8šÈ±ƒÙ-H¾ RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°¼²Â8¾ ¨ƒÙ-H¼ RMAJORZ
+CODE_SMELL
+nsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Æ³´ƒÙ-H¿ RMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(„éœ®ûÿÿÿÿ8Î¥ğ‚Ù-H½ RMINORZ
+CODE_SMELL

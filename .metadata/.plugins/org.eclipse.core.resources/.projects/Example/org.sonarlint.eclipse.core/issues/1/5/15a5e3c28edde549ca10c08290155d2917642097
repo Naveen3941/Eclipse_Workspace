@@ -1,0 +1,5 @@
+
+ssquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ùÐ™Ø8·ý¶±Ù-H§RMAJORZBUG
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹ôŠÿÿÿÿÿ8·ý¶±Ù-H¨RMAJORZ
+CODE_SMELL
+Zsquid:S1148"#Use a logger to log this exception.(ùÐ™Ø8·ý¶±Ù-H©RMINORZVULNERABILITY

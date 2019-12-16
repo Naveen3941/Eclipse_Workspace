@@ -1,0 +1,8 @@
+
+{squid:S1126"BReplace this if-then-else statement by a single method invocation.(˜ú¼Úüÿÿÿÿ8›þµ½ê-HÍ3RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Õç³Íüÿÿÿÿ8³‰·½ê-HÎ3RMAJORZ
+CODE_SMELL
+Tsquid:S2129
+" Remove this "String" constructor(¤’õá8Íº¸¾ê-HÏ3RMAJORZ
+CODE_SMELL

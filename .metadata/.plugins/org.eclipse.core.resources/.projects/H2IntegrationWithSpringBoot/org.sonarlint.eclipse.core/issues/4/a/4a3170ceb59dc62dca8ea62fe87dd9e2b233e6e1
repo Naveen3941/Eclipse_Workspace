@@ -1,0 +1,9 @@
+
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¢”ØÿÿÿÿÿHÍ5RMINORZ
+CODE_SMELL
+‰squid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›HÎ5RMINORZ
+CODE_SMELL
+msquid:CallToDeprecatedMethod	"0Remove this use of "Required"; it is deprecated.(çüÙQHÏ5RMINORZ
+CODE_SMELL
+msquid:CallToDeprecatedMethod"0Remove this use of "Required"; it is deprecated.(çüÙQHĞ5RMINORZ
+CODE_SMELL

@@ -1,0 +1,16 @@
+
+[squid:S1481"(Remove this unused "min" local variable.(€Í±z8Ù‹±šÝ-H¶RMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(î’¼íþÿÿÿÿ8ô©Ú÷Ü-H·RMINORZ
+CODE_SMELL
+\squid:S1481"(Remove this unused "res" local variable.(æùžÅ8ôâ³×-H¸RMINORZ
+CODE_SMELL
+`squid:S1612",Replace this lambda with a method reference.(‚Ÿ…ƒ8õ«µ×-H¹RMINORZ
+CODE_SMELL
+bsquid:S1481")Remove this unused "a124" local variable.(î’¼íþÿÿÿÿ8ÂàÌ˜Ý-HºRMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(»ÃÁûÿÿÿÿ8ÂàÌ˜Ý-H»RMINORZ
+CODE_SMELL
+„squid:UselessImportCheck
+">Remove this unused import 'org.omg.Messaging.SyncScopeHelper'.(Àˆ²äùÿÿÿÿ8êŠ¼ÊÝ-H¼RMINORZ
+CODE_SMELL

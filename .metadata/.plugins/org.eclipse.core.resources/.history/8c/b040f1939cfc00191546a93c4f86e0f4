@@ -1,0 +1,41 @@
+package com.example;
+
+public class CustomerShipment extends Shipment {
+	
+	private double referalFee;
+	
+
+	public CustomerShipment(String name, Double weight, Integer quantity, Double transferCost,
+			Double maxShipmentCapacity) {
+		super(name, weight, quantity, transferCost, maxShipmentCapacity);
+	}
+
+	public CustomerShipment(String name, Double weight, Integer quantity, Double transferCost,
+			Double maxShipmentCapacity, double referalFee) {
+		super(name, weight, quantity, transferCost, maxShipmentCapacity);
+		this.referalFee = referalFee;
+	}
+
+	public double getReferalFee() {
+		return referalFee;
+	}
+
+	public void setReferalFee(double referalFee) {
+		this.referalFee = referalFee;
+	}
+
+	@Override
+	public void calculateCost() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void operatingCapacity() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+
+}

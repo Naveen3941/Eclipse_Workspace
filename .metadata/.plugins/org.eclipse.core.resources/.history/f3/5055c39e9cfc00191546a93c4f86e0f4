@@ -1,0 +1,11 @@
+package com.example;
+
+public class Shipment {
+	private String name;
+	private Double weight;
+	private Integer quantity;
+	private Double transferCost;
+	private Double maxShipmentCapacity;
+
+
+}

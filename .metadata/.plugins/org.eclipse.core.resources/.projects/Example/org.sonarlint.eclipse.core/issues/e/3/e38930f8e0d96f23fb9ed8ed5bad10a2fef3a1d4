@@ -1,0 +1,11 @@
+
+qsquid:S1197"8Move the array designator from the variable to the type.(òü¥óøÿÿÿÿ8ğİçê-HÙ4RMINORZ
+CODE_SMELL
+dsquid:S1481"+Remove this unused "result" local variable.(òü¥óøÿÿÿÿ8îÌë-HÚ4RMINORZ
+CODE_SMELL
+‰squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8¤È¨­ë-HÛ4RCRITICALZ
+CODE_SMELL
+lsquid:S1197"8Move the array designator from the variable to the type.(Ğ½¶8‡ÇÏİê-HÜ4RMINORZ
+CODE_SMELL
+Zsquid:S1659"!Declare "end" on a separate line.(Û‚ÌÎøÿÿÿÿ8ğİçê-Hİ4RMINORZ
+CODE_SMELL

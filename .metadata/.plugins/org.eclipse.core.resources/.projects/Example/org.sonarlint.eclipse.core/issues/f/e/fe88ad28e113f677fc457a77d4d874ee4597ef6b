@@ -1,0 +1,8 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8ìË§ÀÍ-HÐRMAJORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(„Ÿþ‡ùÿÿÿÿ8„Ãç¿Í-HÊRMINORZ
+CODE_SMELL
+bsquid:S1481")Remove this unused "temp" local variable.(ºØ‰Äûÿÿÿÿ8—¹¢ÁÍ-HÓRMINORZ
+CODE_SMELL

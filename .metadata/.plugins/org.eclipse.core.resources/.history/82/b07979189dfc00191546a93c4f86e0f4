@@ -1,0 +1,43 @@
+package com.example;
+
+public class CompanyShipment extends Shipment{
+	private Integer tax;
+	
+
+	
+
+
+	public CompanyShipment(String name, Double weight, Integer quantity, Double transferCost,
+			Double maxShipmentCapacity) {
+		super(name, weight, quantity, transferCost, maxShipmentCapacity);
+	}
+
+
+
+
+
+	public CompanyShipment(String name, Double weight, Integer quantity, Double transferCost,
+			Double maxShipmentCapacity, Integer tax) {
+		super(name, weight, quantity, transferCost, maxShipmentCapacity);
+		this.tax = tax;
+	}
+
+
+
+
+
+	public Integer getTax() {
+		return tax;
+	}
+
+
+
+
+
+	public void setTax(Integer tax) {
+		this.tax = tax;
+	}
+	
+	
+
+}

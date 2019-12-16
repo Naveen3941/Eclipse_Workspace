@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;ojas-obs-educationtype&apos;" deleteContents="true" description="Delete resource &apos;ojas-obs-educationtype&apos;" element1="/ojas-obs-educationtype" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1566462818015"/>
+</session>

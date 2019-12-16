@@ -1,0 +1,15 @@
+package example;
+
+public class Example1 {
+
+	public static void main(String[] args) {
+		
+		float a=(float) 4.5;
+		float b=(float) 3.5;
+		float c=a-b;
+		String d="ramesh";
+		System.out.println("hai"+c+"...."+d);
+
+	}
+
+}

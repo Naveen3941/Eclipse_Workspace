@@ -1,0 +1,27 @@
+package com.example;
+
+public class AgentBo {
+	public void displayAgentDetailsByCompany(String name,AgentCompanyFee[] agentCompanyFee)
+	{
+		
+	}
+
+	public void displayCompanyDetailsByAgent(String name,AgentCompanyFee[] agentCompanyFee)
+	{
+		System.out.println("entered");
+		String name1=name;
+		//System.out.println(agentCompanyFee[0]+">>>>>>>>>>>>>");
+		System.out.println(name1);
+		AgentCompanyFee a1[]=agentCompanyFee;
+       // System.out.println(")))))))))))))))))))))))"+a1.length);
+		for(AgentCompanyFee acf:a1)
+		{
+			//System.out.println("Hai.....................");
+			System.out.println(acf.getFees());
+			if(acf.getCompany().getCompanyName().equals(name1))
+			{
+				System.out.println(acf.getAgent().getName()+"    "+acf.getFees());
+			}
+		}
+	}
+}

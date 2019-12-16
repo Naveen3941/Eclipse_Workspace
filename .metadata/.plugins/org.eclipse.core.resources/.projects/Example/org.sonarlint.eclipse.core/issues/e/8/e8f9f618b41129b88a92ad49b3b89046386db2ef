@@ -1,0 +1,19 @@
+
+vsquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Œ ’ìŞ-HÊRMINORZ
+CODE_SMELL
+~squid:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(€ìÓ¼ûÿÿÿÿ8ç²ÂîŞ-HúRMAJORZBUG
+_squid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ç²ÂîŞ-HøRMINORZVULNERABILITY
+„squid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(›®½ÿúÿÿÿÿ8›¢ïŞ-H„RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’»ÿ8ŸË›ïŞ-HşRMAJORZ
+CODE_SMELL
+€squid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(²şæÌûÿÿÿÿ8ç²ÂîŞ-HõRBLOCKERZBUG
+wsquid:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Ë·¤­8ç²ÂîŞ-HöRBLOCKERZBUG
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÆÿ™ÿÿÿÿÿ8ç²ÂîŞ-HùRMINORZ
+CODE_SMELL
+usquid:UselessImportCheck"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8ç²ÂîŞ-H÷RMINORZ
+CODE_SMELL
+qsquid:S1197*"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8 ’ìŞ-HĞRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ı‡¯Ù8ç²ÂîŞ-HüRMAJORZ
+CODE_SMELL
