@@ -1,24 +1,29 @@
 
-squid:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8Â‡¼Âñ-H‘8RMINORZ
+squid:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8Á¿ú¹ñ-H 8RMINORZ
 CODE_SMELL
-squid:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8‹°±œñ-H¼7RMINORZ
+squid:UselessImportCheck	"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8µƒåñ-HË8RMINORZ
 CODE_SMELL
-squid:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8éÄÇ›ñ-H¹7RMINORZ
+squid:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8Â‡¼Âñ-H¥8RMINORZ
 CODE_SMELL
-squid:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8Àä¶œñ-H»7RMINORZ
+squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(§Ü†Áùÿÿÿÿ8Ãàä¹ñ-H¨8RCRITICALZVULNERABILITY
+squid:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8¿®èÆñ-Hª8RMINORZ
 CODE_SMELL
-squid:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8šìµ¿ñ-H8RMINORZ
+squid:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8ë²¤¿ñ-H¦8RMINORZ
 CODE_SMELL
-squid:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8ã€ê¹ñ-HÈ7RMINORZ
+squid:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8–Şñ-H¡8RMINORZ
 CODE_SMELL
-squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(§Ü†Áùÿÿÿÿ8Ãàä¹ñ-HÅ7RCRITICALZVULNERABILITY
-squid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8ë²¤¿ñ-HŒ8RMINORZ
+squid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8‹°±œñ-HŸ8RMINORZ
 CODE_SMELL
-squid:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8†ø†½ñ-HŠ8RMINORZ
+’squid:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éªı’şÿÿÿÿ8Àä¶œñ-H£8RMINORZ
 CODE_SMELL
-squid:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8–Şñ-H‰8RMINORZ
+squid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8ã€ê¹ñ-H¤8RMINORZ
 CODE_SMELL
-squid:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8Á¿ú¹ñ-HË7RMINORZ
+squid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8†ø†½ñ-H¢8RMINORZ
 CODE_SMELL
-’squid:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éªı’şÿÿÿÿ8¿®èÆñ-H™8RMINORZ
+squid:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8šìµ¿ñ-H©8RMINORZ
 CODE_SMELL
+squid:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶8éÄÇ›ñ-H§8RMINORZ
+CODE_SMELL
+•squid:UselessImportCheck"ORemove this unused import 'org.springframework.web.bind.annotation.PutMapping'.(›¥÷ˆûÿÿÿÿ8íÁèñ-H9RMINORZ
+CODE_SMELL
+|squid:S3752m">Add a "method" parameter to this "@RequestMapping" annotation.(‚ìë’üÿÿÿÿ8íÁèñ-H‚9RBLOCKERZVULNERABILITY

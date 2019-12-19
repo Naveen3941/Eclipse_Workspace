@@ -1,25 +1,25 @@
 
-zsquid:S4684B"@Replace this persistent entity with a simple POJO or DTO object.(›ÏÏî8ªÅÃìè-Hğ2RCRITICALZVULNERABILITY
-xsquid:S4684<"@Replace this persistent entity with a simple POJO or DTO object.(³åªŞÿÿÿÿÿHñ2RCRITICALZVULNERABILITY
-”squid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë8ıÆüëè-Hò2RMINORZ
+ˆsquid:UselessImportCheck	"GRemove this unused import 'org.springframework.mail.SimpleMailMessage'.(€·ÊŒ8àÃÎêè-HÖ8RMINORZ
 CODE_SMELL
-ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…Š±ÅHó2RMINORZ
+…squid:UselessImportCheck"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—ÖùÿÿÿÿHà8RMINORZ
 CODE_SMELL
+ssquid:S4684'"@Replace this persistent entity with a simple POJO or DTO object.(ñˆŠùHâ8RCRITICALZVULNERABILITY
+—squid:UselessImportCheck"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8”Õó¹è-HÜ8RMINORZ
+CODE_SMELL
+zsquid:S4684B"@Replace this persistent entity with a simple POJO or DTO object.(›ÏÏî8ªÅÃìè-Hß8RCRITICALZVULNERABILITY
+xsquid:S46846"@Replace this persistent entity with a simple POJO or DTO object.(¾ÁôıÿÿÿÿHØ8RCRITICALZVULNERABILITY
 squid:UselessImportCheck
-"MRemove this unused import 'org.springframework.mail.javamail.JavaMailSender'.(ÕÃ›8ıÆüëè-Hô2RMINORZ
+"MRemove this unused import 'org.springframework.mail.javamail.JavaMailSender'.(ÕÃ›8ıÆüëè-HÛ8RMINORZ
 CODE_SMELL
-—squid:UselessImportCheck"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8”Õó¹è-Hõ2RMINORZ
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…Š±ÅHá8RMINORZ
 CODE_SMELL
-‚squid:UselessImportCheck"<Remove this unused import 'javax.mail.internet.MimeMessage'.(«ÀÔ€şÿÿÿÿ8ıÆüëè-Hö2RMINORZ
+‚squid:UselessImportCheck"<Remove this unused import 'javax.mail.internet.MimeMessage'.(«ÀÔ€şÿÿÿÿ8ıÆüëè-Hã8RMINORZ
 CODE_SMELL
-…squid:UselessImportCheck"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—ÖùÿÿÿÿH÷2RMINORZ
+xsquid:S4684<"@Replace this persistent entity with a simple POJO or DTO object.(³åªŞÿÿÿÿÿHÙ8RCRITICALZVULNERABILITY
+zsquid:S4684."@Replace this persistent entity with a simple POJO or DTO object.(¬®áˆ8üˆ« è-H×8RCRITICALZVULNERABILITY
+”squid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë8ıÆüëè-HÚ8RMINORZ
 CODE_SMELL
-ssquid:S4684'"@Replace this persistent entity with a simple POJO or DTO object.(ñˆŠùHø2RCRITICALZVULNERABILITY
-ˆsquid:UselessImportCheck	"GRemove this unused import 'org.springframework.mail.SimpleMailMessage'.(€·ÊŒ8àÃÎêè-Hù2RMINORZ
+–squid:UselessImportCheck"PRemove this unused import 'org.springframework.mail.javamail.MimeMessageHelper'.(Ö€”÷øÿÿÿÿ8ıÆüëè-Hİ8RMINORZ
 CODE_SMELL
-zsquid:S4684."@Replace this persistent entity with a simple POJO or DTO object.(¬®áˆ8üˆ« è-Hú2RCRITICALZVULNERABILITY
-–squid:UselessImportCheck"PRemove this unused import 'org.springframework.mail.javamail.MimeMessageHelper'.(Ö€”÷øÿÿÿÿ8ıÆüëè-Hû2RMINORZ
+{squid:UselessImportCheck":Remove this unused import 'javax.mail.MessagingException'.(ÇîŞ8ıÆüëè-HŞ8RMINORZ
 CODE_SMELL
-{squid:UselessImportCheck":Remove this unused import 'javax.mail.MessagingException'.(ÇîŞ8ıÆüëè-Hü2RMINORZ
-CODE_SMELL
-xsquid:S46846"@Replace this persistent entity with a simple POJO or DTO object.(¾ÁôıÿÿÿÿHı2RCRITICALZVULNERABILITY

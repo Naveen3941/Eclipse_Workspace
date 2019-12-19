@@ -1,9 +1,9 @@
 
-”squid:UselessImportCheck"NRemove this unused import 'org.springframework.data.jpa.repository.Modifying'.(—·Ñ”şÿÿÿÿ8ÒŞ®¹è-H3RMINORZ
+squid:UselessImportCheck"JRemove this unused import 'org.springframework.data.jpa.repository.Query'.(Äºöïşÿÿÿÿ8°À£ºè-Hè8RMINORZ
 CODE_SMELL
-›squid:UselessImportCheck"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿ8°À£ºè-H3RMINORZ
+”squid:UselessImportCheck"NRemove this unused import 'org.springframework.data.jpa.repository.Modifying'.(—·Ñ”şÿÿÿÿ8ÒŞ®¹è-Hé8RMINORZ
 CODE_SMELL
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öø÷ŞıÿÿÿÿH3RMINORZ
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öø÷ŞıÿÿÿÿHç8RMINORZ
 CODE_SMELL
-squid:UselessImportCheck"JRemove this unused import 'org.springframework.data.jpa.repository.Query'.(Äºöïşÿÿÿÿ8°À£ºè-H3RMINORZ
+›squid:UselessImportCheck"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿ8°À£ºè-Hê8RMINORZ
 CODE_SMELL
