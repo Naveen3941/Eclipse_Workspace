@@ -9,3 +9,5 @@ j
 :src/main/java/com/sendingmail/controller/MyController.java,3\c\3ca79766792fcdc0674fb98bc38842379c78dfb6
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+o
+?src/test/java/com/sendingmail/SendingEmailApplicationTests.java,0\9\097d43380ead843bfec39be72e0bdfbb83ab36a3

@@ -1,33 +1,33 @@
 
-Üsquid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(–µ¨πH‘RMINORZ
+Çsquid:S1192o"MDefine a constant instead of duplicating this literal "Record Found" 3 times.(‹…÷Â˙ˇˇˇˇH€7RCRITICALZ
 CODE_SMELL
-Çsquid:S1192o"MDefine a constant instead of duplicating this literal "Record Found" 3 times.(‹…÷Â˙ˇˇˇˇH’RCRITICALZ
+Üsquid:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(–µ¨πH‹7RMINORZ
 CODE_SMELL
-Üsquid:S2293~"YReplace the type specification in this constructor call with the diamond operator ("<>").(–µ¨πH÷RMINORZ
+|squid:S11927"GDefine a constant instead of duplicating this literal "Failed" 3 times.(â´∏„˘ˇˇˇˇH›7RCRITICALZ
 CODE_SMELL
-ásquid:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(†—√€H◊RMINORZ
+Äsquid:S1192k"QDefine a constant instead of duplicating this literal "No records found" 3 times.(Õ√É-Hﬁ7RCRITICALZ
 CODE_SMELL
-Üsquid:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(–µ¨πHÿRMINORZ
+Üsquid:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(†—√€Hﬂ7RMINORZ
 CODE_SMELL
-ãsquid:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÛÓÑˇˇˇˇˇHŸRMINORZ
+Üsquid:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(†—√€H‡7RMINORZ
 CODE_SMELL
-Üsquid:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(–µ¨πH⁄RMINORZ
+ásquid:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(–µ¨πH·7RMINORZ
 CODE_SMELL
-ásquid:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(–µ¨πH€RMINORZ
+ásquid:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(†—√€H‚7RMINORZ
 CODE_SMELL
-Üsquid:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(†—√€H‹RMINORZ
+ásquid:S3776b"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿¶è∫˚ˇˇˇˇH„7RCRITICALZ
 CODE_SMELL
-ásquid:S3776b"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿¶è∫˚ˇˇˇˇH›RCRITICALZ
+Üsquid:S2293~"YReplace the type specification in this constructor call with the diamond operator ("<>").(–µ¨πH‰7RMINORZ
 CODE_SMELL
-Üsquid:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(–µ¨πHﬁRMINORZ
+Üsquid:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(—‚ù∑HÂ7RMINORZ
 CODE_SMELL
-ásquid:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(†—√€HﬂRMINORZ
+ásquid:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(†—√€HÊ7RMINORZ
 CODE_SMELL
-|squid:S11927"GDefine a constant instead of duplicating this literal "Failed" 3 times.(â´∏„˘ˇˇˇˇH‡RCRITICALZ
+Üsquid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(–µ¨πHÁ7RMINORZ
 CODE_SMELL
-Äsquid:S1192k"QDefine a constant instead of duplicating this literal "No records found" 3 times.(Õ√É-H·RCRITICALZ
+Üsquid:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(–µ¨πHË7RMINORZ
 CODE_SMELL
-Üsquid:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(—‚ù∑H‚RMINORZ
+ãsquid:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÛÓÑˇˇˇˇˇHÈ7RMINORZ
 CODE_SMELL
-Üsquid:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(†—√€H„RMINORZ
+Üsquid:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(–µ¨πHÍ7RMINORZ
 CODE_SMELL

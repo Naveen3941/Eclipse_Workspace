@@ -33,6 +33,9 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\nc19413\Desktop\UserRegistration"/>
+			<item value="C:\Users\nc19413\Downloads\SpringRegistrationWithValidation"/>
+			<item value="C:\Users\nc19413\Downloads\SpringOnetoManyAnnotation"/>
 			<item value="C:\Users\nc19413\Downloads\h2database-master\H2IntegrationWithSpringBoot"/>
 			<item value="C:\Users\nc19413\Downloads\SendingEmailApplication"/>
 			<item value="C:\Users\nc19413\Desktop\Naveen\AngularExample1"/>

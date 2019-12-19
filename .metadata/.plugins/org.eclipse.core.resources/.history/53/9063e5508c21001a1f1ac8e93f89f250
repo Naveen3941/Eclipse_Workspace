@@ -1,0 +1,8 @@
+package com.validation.repository;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface HomeRepository extends JpaRepository<, Integer>{
+	//public ResponseEntity<Object> saveAllData(@RequestBody Employee emp) {
+}

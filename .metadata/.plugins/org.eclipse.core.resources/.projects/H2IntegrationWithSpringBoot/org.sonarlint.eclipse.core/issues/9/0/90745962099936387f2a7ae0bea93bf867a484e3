@@ -1,21 +1,21 @@
 
-squid:S14882"[Immediately return this expression instead of assigning it to the temporary variable "emp".(ç¯í†ûÿÿÿÿHá5RMINORZ
+isquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕHë5RMINORZ
 CODE_SMELL
-‹squid:S1488K"YImmediately return this expression instead of assigning it to the temporary variable "b".(¹½¿ÎşÿÿÿÿHâ5RMINORZ
+‰squid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›Hì5RMINORZ
 CODE_SMELL
-ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÛÑ´Hã5RMINORZ
+‹squid:S1488K"YImmediately return this expression instead of assigning it to the temporary variable "b".(¹½¿ÎşÿÿÿÿHí5RMINORZ
 CODE_SMELL
-‰squid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›Hä5RMINORZ
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÛÑ´Hî5RMINORZ
 CODE_SMELL
-isquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕHå5RMINORZ
+}squid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(ÿ‡…÷şÿÿÿÿHï5RMAJORZ
 CODE_SMELL
-jsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHæ5RMINORZ
+Ysquid:S19052"'Remove this unnecessary cast to "List".(ç¯í†ûÿÿÿÿHğ5RMINORZ
 CODE_SMELL
-squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂºáÌıÿÿÿÿHç5RMINORZ
+squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂºáÌıÿÿÿÿHñ5RMINORZ
 CODE_SMELL
-Ysquid:S19052"'Remove this unnecessary cast to "List".(ç¯í†ûÿÿÿÿHè5RMINORZ
+squid:S14882"[Immediately return this expression instead of assigning it to the temporary variable "emp".(ç¯í†ûÿÿÿÿHò5RMINORZ
 CODE_SMELL
-xsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(üÂØHé5RMAJORZ
+jsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHó5RMINORZ
 CODE_SMELL
-}squid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(ÿ‡…÷şÿÿÿÿHê5RMAJORZ
+xsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(üÂØHô5RMAJORZ
 CODE_SMELL

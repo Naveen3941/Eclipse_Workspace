@@ -1,0 +1,6 @@
+package com.validation.config;
+
+@org.springframework.context.annotation.Configuration
+public class Configurati {
+
+}

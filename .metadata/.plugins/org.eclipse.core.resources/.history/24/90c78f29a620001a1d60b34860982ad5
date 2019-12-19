@@ -1,0 +1,21 @@
+package com.validation.model;
+
+import java.util.Date;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table
+public class Employee {
+	private Long id;
+    private String firstName;
+    private String lastName;
+    private Date dateOfBirth;
+    private Long mobileNum;
+    private String gender;
+    private String email;
+    private String username;
+    private String password;
+
+}

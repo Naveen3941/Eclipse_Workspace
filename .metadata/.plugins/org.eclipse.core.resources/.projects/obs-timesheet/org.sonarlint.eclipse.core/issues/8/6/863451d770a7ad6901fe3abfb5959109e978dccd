@@ -1,36 +1,36 @@
 
-Nsquid:S2789<"(Remove this null-check of an "Optional".(ù‘’ÄH™RMAJORZBUG
-isquid:S2583*"CChange this condition so that it does not always evaluate to "true"(Ôú∞≠H´RMAJORZBUG
-dsquid:S2589<"7Remove this expression which always evaluates to "true"(ù‘’ÄH¨RMAJORZ
+Üsquid:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ”€∂Hˆ7RMINORZ
 CODE_SMELL
-]squid:S3655<"7Call "findById.isPresent()" before accessing the value.(ù‘’ÄH≠RMAJORZBUG
-çsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ω≈¶™¸ˇˇˇˇHÆRMINORZ
+Üsquid:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ”€∂H˜7RMINORZ
 CODE_SMELL
-ásquid:S3776""RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(äŸ´∂¯ˇˇˇˇHØRCRITICALZ
+Ösquid:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ò¿ H¯7RMINORZ
 CODE_SMELL
-Üsquid:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ”€∂H∞RMINORZ
+dsquid:S2589<"7Remove this expression which always evaluates to "true"(ù‘’ÄH˘7RMAJORZ
 CODE_SMELL
-Ösquid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ò¿ H±RMINORZ
+Üsquid:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ”€∂H˙7RMINORZ
 CODE_SMELL
-Üsquid:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ”€∂H≤RMINORZ
+Çsquid:S3776U"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(£¯è«H˚7RCRITICALZ
 CODE_SMELL
-Ösquid:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ò¿ H≥RMINORZ
+Üsquid:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø◊ ›H¸7RMINORZ
 CODE_SMELL
-Ösquid:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ò¿ H¥RMINORZ
+isquid:S2583*"CChange this condition so that it does not always evaluate to "true"(Ôú∞≠H˝7RMAJORZBUG
+]squid:S3655<"7Call "findById.isPresent()" before accessing the value.(ù‘’ÄH˛7RMAJORZBUG
+çsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ω≈¶™¸ˇˇˇˇHˇ7RMINORZ
 CODE_SMELL
-Üsquid:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ”€∂HµRMINORZ
+Ösquid:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ò¿ HÄ8RMINORZ
 CODE_SMELL
-Çsquid:S3776U"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(£¯è«H∂RCRITICALZ
+Üsquid:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ”€∂HÅ8RMINORZ
 CODE_SMELL
-Üsquid:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ”€∂H∑RMINORZ
+Üsquid:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(éî∆üHÇ8RMINORZ
 CODE_SMELL
-Üsquid:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(éî∆üH∏RMINORZ
+Ösquid:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ò¿ HÉ8RMINORZ
 CODE_SMELL
-Üsquid:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø◊ ›HπRMINORZ
+ásquid:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ”€∂HÑ8RMINORZ
 CODE_SMELL
-Üsquid:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ”€∂H∫RMINORZ
+Ösquid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ò¿ HÖ8RMINORZ
 CODE_SMELL
-Ösquid:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ò¿ HªRMINORZ
+ásquid:S3776""RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(äŸ´∂¯ˇˇˇˇHÜ8RCRITICALZ
 CODE_SMELL
-ásquid:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ”€∂HºRMINORZ
+Üsquid:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ”€∂Há8RMINORZ
 CODE_SMELL
+Nsquid:S2789<"(Remove this null-check of an "Optional".(ù‘’ÄHà8RMAJORZBUG

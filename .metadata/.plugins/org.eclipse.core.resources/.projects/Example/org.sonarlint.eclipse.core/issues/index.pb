@@ -87,3 +87,5 @@ N
 -src/example/SpiralAntiClockWiseDirection.java,5\c\5cb2038b2f8de608a3abdfd9c4894d3806e22799
 O
 src/example/AscendingOrder.java,f\f\ff89b5f799b2457ffb6d0c23823c944d0900632d
+U
+%src/example/FindingCapitalLetter.java,5\e\5e87e520c69cf97043b76b60017402e1c21b422e

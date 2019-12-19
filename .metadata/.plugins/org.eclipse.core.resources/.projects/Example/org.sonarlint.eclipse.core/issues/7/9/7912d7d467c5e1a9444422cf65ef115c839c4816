@@ -1,13 +1,7 @@
 
-]squid:S1125")Remove the literal "false" boolean value.(Ó®Ö8Ò™‹Î-H¼RMINORZ
+]squid:S1125")Remove the literal "false" boolean value.(Ó®Ö8Ò™‹Î-H÷5RMINORZ
 CODE_SMELL
-qsquid:S1197"8Move the array designator from the variable to the type.(’İÀÊûÿÿÿÿ8Ò™‹Î-H½RMINORZ
+qsquid:S1197	"8Move the array designator from the variable to the type.(’İÀÊûÿÿÿÿ8Ò™‹Î-Hö5RMINORZ
 CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(š£Ô†8Ò™‹Î-H¾RMAJORZ
-CODE_SMELL
-hsquid:S1066"/Merge this if statement with the enclosing one.(¶–Ö·şÿÿÿÿ8Ò™‹Î-H¿RMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(¤ç„ª8Ò™‹Î-HÀRMAJORZ
+hsquid:S1066"/Merge this if statement with the enclosing one.(¶–Ö·şÿÿÿÿ8Ò™‹Î-Hø5RMAJORZ
 CODE_SMELL
