@@ -1,29 +1,29 @@
 
-çsquid:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂8¡ø˙πÒ-H†8RMINORZ
+ésquid:UselessImportCheck"ORemove this unused import 'org.springframework.web.bind.annotation.PutMapping'.(õ•˜à˚ˇˇˇˇHò9RMINORZ
 CODE_SMELL
-êsquid:UselessImportCheck	"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(á°âÿ8µÉêÂÒ-HÀ8RMINORZ
+âsquid:UselessImportCheck	"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(á°âÿHô9RMINORZ
 CODE_SMELL
-çsquid:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂8¬áº¬Ò-H•8RMINORZ
+usquid:S3752m">Add a "method" parameter to this "@RequestMapping" annotation.(ÇÏÎí¸ˇˇˇˇHö9RBLOCKERZVULNERABILITY
+xsquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ß‹Ü¡˘ˇˇˇˇHõ9RCRITICALZVULNERABILITY
+Üsquid:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂Hú9RMINORZ
 CODE_SMELL
-squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ß‹Ü¡˘ˇˇˇˇ8√‡‰πÒ-H®8RCRITICALZVULNERABILITY
-çsquid:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂8øÆË∆Ò-H™8RMINORZ
+Üsquid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂Hù9RMINORZ
 CODE_SMELL
-çsquid:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂8Î≤§øÒ-H¶8RMINORZ
+Üsquid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂Hû9RMINORZ
 CODE_SMELL
-çsquid:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂8ñﬁéûÒ-H°8RMINORZ
+Üsquid:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂Hü9RMINORZ
 CODE_SMELL
-çsquid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂8ã∞±úÒ-Hü8RMINORZ
+Üsquid:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂H†9RMINORZ
 CODE_SMELL
-ísquid:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(…™˝í˛ˇˇˇˇ8¿‰∂úÒ-H£8RMINORZ
+Üsquid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂H°9RMINORZ
 CODE_SMELL
-çsquid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂8„ÄÍπÒ-H§8RMINORZ
+Üsquid:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂H¢9RMINORZ
 CODE_SMELL
-çsquid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂8Ü¯ÜΩÒ-H¢8RMINORZ
+Üsquid:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂H£9RMINORZ
 CODE_SMELL
-çsquid:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂8öÏµøÒ-H©8RMINORZ
+Üsquid:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂H§9RMINORZ
 CODE_SMELL
-çsquid:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂8Èƒ«õÒ-Hß8RMINORZ
+Üsquid:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Áπ∂H•9RMINORZ
 CODE_SMELL
-ïsquid:UselessImportCheck"ORemove this unused import 'org.springframework.web.bind.annotation.PutMapping'.(õ•˜à˚ˇˇˇˇ8Ì¡ùËÒ-HÅ9RMINORZ
+ãsquid:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(…™˝í˛ˇˇˇˇH¶9RMINORZ
 CODE_SMELL
-|squid:S3752m">Add a "method" parameter to this "@RequestMapping" annotation.(ÇÏÎí¸ˇˇˇˇ8Ì¡ùËÒ-HÇ9RBLOCKERZVULNERABILITY

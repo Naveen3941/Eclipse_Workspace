@@ -1,11 +1,0 @@
-
-‰squid:S00116"ORename this field "e_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¡Öûøÿÿÿÿ8º÷ÿôð-HÇ6RMINORZ
-CODE_SMELL
-†squid:S00116"QRename this field "e_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¸¯¯8º÷ÿôð-HÅ6RMINORZ
-CODE_SMELL
-asquid:S1068"(Remove this unused "e_id" private field.(Œ¡Öûøÿÿÿÿ8º÷ÿôð-HÆ6RMAJORZ
-CODE_SMELL
-^squid:S1068"*Remove this unused "e_name" private field.(„¸¯¯8º÷ÿôð-HÃ6RMAJORZ
-CODE_SMELL
-Zsquid:S1068"&Remove this unused "ad" private field.(“Î¤Î8º÷ÿôð-HÄ6RMAJORZ
-CODE_SMELL

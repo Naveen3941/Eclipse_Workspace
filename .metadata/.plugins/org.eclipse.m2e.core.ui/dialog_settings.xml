@@ -33,6 +33,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\nc19413\Desktop\mappings\jpaOneToOne_Mapping"/>
+			<item value="D:\eclipse_workspace\Eclipse_Workspace\SpringRegistrationWithValidation"/>
 			<item value="C:\Users\nc19413\Desktop\UserRegistration"/>
 			<item value="C:\Users\nc19413\Downloads\SpringRegistrationWithValidation"/>
 			<item value="C:\Users\nc19413\Downloads\SpringOnetoManyAnnotation"/>

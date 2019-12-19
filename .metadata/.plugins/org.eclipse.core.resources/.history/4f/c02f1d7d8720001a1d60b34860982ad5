@@ -1,9 +1,0 @@
-package com.onetomanymapping.model;
-
-public class Address {
-	private int houseno;
-	private String street;
-	private String city;
-	
-
-}

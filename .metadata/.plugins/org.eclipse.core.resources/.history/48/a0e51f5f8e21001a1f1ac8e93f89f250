@@ -1,6 +1,0 @@
-package com.validation.config;
-
-@Configuration
-public class Configurati {
-
-}

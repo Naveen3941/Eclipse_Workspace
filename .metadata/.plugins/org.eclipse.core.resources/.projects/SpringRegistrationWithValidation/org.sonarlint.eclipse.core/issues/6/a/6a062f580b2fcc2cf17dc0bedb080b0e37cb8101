@@ -1,5 +1,5 @@
 
-_squid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Îöäñ-HÁ8RMINORZVULNERABILITY
-psquid:S2583."CChange this condition so that it does not always evaluate to "true"(ïœ°­8¦¯Åäñ-HÊ8RMAJORZBUG
-^squid:S1481 "*Remove this unused "token" local variable.(™À›Ë8ò¯Ûæñ-HÑ8RMINORZ
+isquid:S2583."CChange this condition so that it does not always evaluate to "true"(ïœ°­H§9RMAJORZBUG
+Xsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¨9RMINORZVULNERABILITY
+Wsquid:S1481 "*Remove this unused "token" local variable.(™À›ËH©9RMINORZ
 CODE_SMELL
