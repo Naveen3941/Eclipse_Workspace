@@ -33,6 +33,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\eclipse_workspace\Eclipse_Workspace\jpaOneToOne_Mapping"/>
 			<item value="C:\Users\nc19413\Desktop\mappings\jpaOneToOne_Mapping"/>
 			<item value="D:\eclipse_workspace\Eclipse_Workspace\SpringRegistrationWithValidation"/>
 			<item value="C:\Users\nc19413\Desktop\UserRegistration"/>
@@ -70,6 +71,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\eclipse_workspace\Eclipse_Workspace\jpaOneToOne_Mapping\pom.xml"/>
 			<item value="D:\eclipse_workspace\SpringMVCWithJdbcTemplate"/>
 			<item value="D:\eclipse_workspace\MVCApplication1\src\com\javatpoint"/>
 		</list>
@@ -84,12 +86,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.example.JPA_OnetoOneMapping"/>
+			<item value="com.example.JPAOnetoOneMapping"/>
 			<item value="com.example.HibernateApplication12"/>
 		</list>
 		<list key="groupId">
 			<item value="com.example"/>
 		</list>
 		<list key="artifactId">
+			<item value="JPA_OnetoOneMapping"/>
+			<item value="JPAOnetoOneMapping"/>
 			<item value="HibernateApplication12"/>
 		</list>
 		<list key="projectNameTemplate">

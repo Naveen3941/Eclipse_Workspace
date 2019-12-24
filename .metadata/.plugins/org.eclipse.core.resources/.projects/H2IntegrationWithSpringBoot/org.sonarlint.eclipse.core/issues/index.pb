@@ -27,3 +27,5 @@ v
 Fsrc/main/java/com/java/H2IntegrationWithSpringBoot/repository/Red.java,5\f\5f0e1e4fcdc5ac8a7f4de4fb786cd30fbb33edac
 
 Osrc/main/java/com/java/H2IntegrationWithSpringBoot/service/EmployeeService.java,9\0\90745962099936387f2a7ae0bea93bf867a484e3
+z
+Jsrc/main/java/com/java/H2IntegrationWithSpringBoot/service/JpaService.java,d\6\d601f3a7626763bf42dad0c94f7e8ce3e72de2d4

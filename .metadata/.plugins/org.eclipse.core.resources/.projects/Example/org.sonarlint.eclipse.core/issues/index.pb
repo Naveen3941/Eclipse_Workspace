@@ -89,3 +89,11 @@ O
 src/example/AscendingOrder.java,f\f\ff89b5f799b2457ffb6d0c23823c944d0900632d
 U
 %src/example/FindingCapitalLetter.java,5\e\5e87e520c69cf97043b76b60017402e1c21b422e
+R
+"src/example/NumberingOrdering.java,9\4\94315f64b75d5101643b43af60ceeb4a4f91e04e
+N
+src/example/ArraySpliting.java,1\3\134f17410b9a68d66f53d78a2a932261675000ee
+I
+src/example/Practise.java,8\7\875cda5166d93c65cd7e23f5a958ed59926bf88f
+P
+ src/example/StringRecursive.java,0\2\0279d9bf3f5762fe758089e70b251f5fad4c1c0a
