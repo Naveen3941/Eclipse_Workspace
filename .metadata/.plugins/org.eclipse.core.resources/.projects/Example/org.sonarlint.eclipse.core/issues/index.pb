@@ -97,3 +97,27 @@ I
 src/example/Practise.java,8\7\875cda5166d93c65cd7e23f5a958ed59926bf88f
 P
  src/example/StringRecursive.java,0\2\0279d9bf3f5762fe758089e70b251f5fad4c1c0a
+P
+ src/files/FileWriterExample.java,3\5\3555c1bc3e4dd4edeb5128b946dddfaee7f84d03
+H
+src/example/Pyramid.java,3\8\38c9db5db4b73d099e4b77d0580fa2ecd0cd5746
+L
+src/pattern/StarPyramid.java,1\7\17427019812a0ccdf620239c075855685d19262b
+N
+src/pattern/DoublePattern.java,a\1\a1ea45fe7d2bbb3c75be5459e2b10fbe00d2a981
+O
+src/pattern/DoublePattern1.java,f\9\f9c4670d364c5b9d264c12bc4429567ae8e19385
+I
+src/pattern/Pattern2.java,c\f\cfd40ad1472e6f6931fa801a16b158c2915de2c5
+I
+src/pattern/Pattern3.java,1\e\1ecbb1653f3f4079587707707e5355bdc90c1e9d
+I
+src/pattern/Pattern4.java,6\1\6143f91252b0907f5f0b6f57f6267f1486c40191
+I
+src/pattern/Pattern5.java,2\d\2d9c5cea66b5e7cae598461ef566bd2eb3988323
+I
+src/pattern/Pattern6.java,f\d\fd3b85a1cbd6fe0966f1a5145f7fb54f39519f3f
+I
+src/pattern/Pattern7.java,c\0\c08d5908593707bbad5adad1120e31f7177ca514
+I
+src/pattern/Pattern8.java,c\6\c670019d87a0c9e57b0b2292fb49d2758a5cb4bb
