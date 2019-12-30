@@ -1,23 +1,0 @@
-
-†squid:S1488,"YImmediately return this expression instead of assigning it to the temporary variable "b".(ÅäßåH»5RMINORZ
-CODE_SMELL
-„squid:UselessImportCheck"ERemove this unused import 'org.springframework.stereotype.Component'.(Þ÷Ñ¸ÿÿÿÿÿH¿5RMINORZ
-CODE_SMELL
-Žsquid:S1488%"aImmediately return this expression instead of assigning it to the temporary variable "namedFile".(úò³ØHº5RMINORZ
-CODE_SMELL
-•squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "defaultFile".(ëúÜŸþÿÿÿÿH¹5RMINORZ
-CODE_SMELL
-psquid:UselessImportCheck"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—HÂ5RMINORZ
-CODE_SMELL
-xsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(Ðöø”HÃ5RMAJORZ
-CODE_SMELL
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÈ…ëúÿÿÿÿH½5RMINORZ
-CODE_SMELL
-Šsquid:UselessImportCheck"PRemove this unused import 'com.java.H2IntegrationWithSpringBoot.model.Employee'.(Ÿ±HÁ5RMINORZ
-CODE_SMELL
-‡squid:S14883"ZImmediately return this expression instead of assigning it to the temporary variable "c1".(ìÔÈ½H¼5RMINORZ
-CODE_SMELL
-‰squid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›H¾5RMINORZ
-CODE_SMELL
-“squid:UselessImportCheck"YRemove this unused import 'com.java.H2IntegrationWithSpringBoot.service.EmployeeService'.( ¢ãÞHÀ5RMINORZ
-CODE_SMELL

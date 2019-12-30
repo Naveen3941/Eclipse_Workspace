@@ -1,21 +1,0 @@
-
-squid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(³•ï 8š†Ìóï-HÓ9RMAJORZ
-CODE_SMELL
-‚squid:UselessImportCheck	"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰ÞHÎ9RMINORZ
-CODE_SMELL
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—§Ø§ýÿÿÿÿHÏ9RMINORZ
-CODE_SMELL
-Œsquid:UselessImportCheck"RRemove this unused import 'org.springframework.beans.factory.annotation.Required'.(‘™ê¢HÐ9RMINORZ
-CODE_SMELL
-usquid:S3752c">Add a "method" parameter to this "@RequestMapping" annotation.(³¥¼«ùÿÿÿÿHÌ9RBLOCKERZVULNERABILITY
-rsquid:S46843"@Replace this persistent entity with a simple POJO or DTO object.(ÜôƒcHË9RCRITICALZVULNERABILITY
-Ssquid:S1481?"&Remove this unused "b" local variable.(¶Ÿ¿®HÔ9RMINORZ
-CODE_SMELL
-‘squid:UselessImportCheck"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™ÐÿûÿÿÿÿHÊ9RMINORZ
-CODE_SMELL
-”squid:UselessImportCheck"URemove this unused import 'com.java.H2IntegrationWithSpringBoot.config.SampleConfig'.(Œ€ƒ§ýÿÿÿÿHÍ9RMINORZ
-CODE_SMELL
-squid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(‹ä”8š†Ìóï-HÒ9RMAJORZ
-CODE_SMELL
-^squid:S1612p",Replace this lambda with a method reference.(ë­ëŠøÿÿÿÿHÑ9RMINORZ
-CODE_SMELL

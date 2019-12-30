@@ -1,7 +1,0 @@
-
-squid:UselessImportCheck	"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡΅‰Ψ8γιθ-Hε1RMINORZ
-CODE_SMELL
-_squid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ΦΦειθ-Hη1RMINORZVULNERABILITY
-|squid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ΡΟ¬εϊÿÿÿÿ8ΦΦειθ-Hθ1RBLOCKERZVULNERABILITY
-‚squid:UselessImportCheck"ARemove this unused import 'com.sendingmail.service.EmailService'.(θ™•8γιθ-Hζ1RMINORZ
-CODE_SMELL

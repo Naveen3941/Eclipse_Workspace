@@ -1,10 +1,0 @@
-
-_squid:S1905$"+Remove this unnecessary cast to "Optional".(½©¨À8ı÷‚ÁÖ-H¸RMINORZ
-CODE_SMELL
-›squid:UselessImportCheck	"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿ8›®°ÄÖ-H·RMINORZ
-CODE_SMELL
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯Ä»³ıÿÿÿÿH¶RMINORZ
-CODE_SMELL
-Œsquid:S1488."ZImmediately return this expression instead of assigning it to the temporary variable "b1".(õãÖ¯øÿÿÿÿHµRMINORZ
-CODE_SMELL
-squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ë²è¦úÿÿÿÿ8‡ôæ½Ö-H¹RCRITICALZVULNERABILITY

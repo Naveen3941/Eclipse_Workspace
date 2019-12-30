@@ -1,8 +1,0 @@
-
-–"squid:ClassVariableVisibilityCheck	"OMake msg a static final constant or non-public and provide accessors if needed.(İÑºŒHÑ5RMINORZVULNERABILITY
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¢”ØÿÿÿÿÿHÒ5RMINORZ
-CODE_SMELL
-msquid:CallToDeprecatedMethod"0Remove this use of "Required"; it is deprecated.(çüÙQHÓ5RMINORZ
-CODE_SMELL
-}squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(õ¦é¾üÿÿÿÿHÔ5RMAJORZ
-CODE_SMELL

@@ -1,7 +1,0 @@
-
-“squid:UselessImportCheck"TRemove this unused import 'com.java.H2IntegrationWithSpringBoot.repository.Example'.(ã¢¬şıÿÿÿÿH¸5RMINORZ
-CODE_SMELL
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–¢æ’şÿÿÿÿH¶5RMINORZ
-CODE_SMELL
-‚squid:UselessImportCheck"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰ŞH·5RMINORZ
-CODE_SMELL
