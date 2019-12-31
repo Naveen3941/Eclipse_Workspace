@@ -1,5 +1,7 @@
 
-isquid:S2583."CChange this condition so that it does not always evaluate to "true"(ïœ°­HÚ<RMAJORZBUG
-Wsquid:S1481 "*Remove this unused "token" local variable.(™À›ËHÛ<RMINORZ
+„squid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ß´Ýúÿÿÿÿ8‰Ô··õ-Hí@RMAJORZ
 CODE_SMELL
-Xsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÜ<RMINORZVULNERABILITY
+Xsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH½@RMINORZVULNERABILITY
+Wsquid:S1481 "*Remove this unused "token" local variable.(™À›ËH¼@RMINORZ
+CODE_SMELL
+psquid:S2583."CChange this condition so that it does not always evaluate to "true"(ïœ°­8‹²·õ-Hë@RMAJORZBUG

@@ -9,12 +9,6 @@ public class ErrorResponse {
 		super();
 	}
 
-	public ErrorResponse(String statusCode, String statusMessage) {
-		super();
-		this.statusCode = statusCode;
-		this.statusMessage = statusMessage;
-	}
-
 	public String getStatusCode() {
 		return statusCode;
 	}
@@ -30,6 +24,4 @@ public class ErrorResponse {
 	public void setStatusMessage(String statusMessage) {
 		this.statusMessage = statusMessage;
 	}
-
-
 }

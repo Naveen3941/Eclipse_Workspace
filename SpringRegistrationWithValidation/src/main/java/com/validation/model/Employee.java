@@ -1,7 +1,5 @@
 package com.validation.model;
 
-
-
 import java.sql.Date;
 
 import javax.persistence.Entity;
@@ -16,19 +14,15 @@ public class Employee {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
-	private String  firstName;
-	private String  lastName;
-	private Date   dateOfBirth;
-	private String   mobileNum;
-	private String  gender;
-	private String  email;
-	private String  username;
-	private String  password;
+	private String firstName;
+	private String lastName;
+	private Date dateOfBirth;
+	private String mobileNum;
+	private String gender;
+	private String email;
+	private String username;
+	private String password;
 	private String activeRegistrationStatus;
-
-	public Long getId() {
-		return id;
-	}
 
 	public void setId(Long id) {
 		this.id = id;
@@ -57,8 +51,6 @@ public class Employee {
 	public void setDateOfBirth(Date dateOfBirth) {
 		this.dateOfBirth = dateOfBirth;
 	}
-
-	
 
 	public String getMobileNum() {
 		return mobileNum;
@@ -99,25 +91,9 @@ public class Employee {
 	public void setPassword(String password) {
 		this.password = password;
 	}
-	
-
-	
-
-	public String getActiveRegistrationStatus() {
-		return activeRegistrationStatus;
-	}
 
 	public void setActiveRegistrationStatus(String activeRegistrationStatus) {
 		this.activeRegistrationStatus = activeRegistrationStatus;
 	}
-
-	@Override
-	public String toString() {
-		return "Employee [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", dateOfBirth="
-				+ dateOfBirth + ", mobileNum=" + mobileNum + ", gender=" + gender + ", email=" + email + ", username="
-				+ username + ", password=" + password + ", activeRegistrationStatus=" + activeRegistrationStatus + "]";
-	}
-
-	
 
 }

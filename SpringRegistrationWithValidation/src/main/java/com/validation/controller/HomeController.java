@@ -105,9 +105,9 @@ public class HomeController {
 		
 	}
 	@RequestMapping("/activate/{name}")
-	public String message(@PathVariable("name") String id)
+	public ResponseEntity<Object> message(@PathVariable("name") String id)
 	{
-		System.out.println(id+"???????????");
+	System.out.println(id+"???????????");
 		 return service.message(id);
 	}
 	

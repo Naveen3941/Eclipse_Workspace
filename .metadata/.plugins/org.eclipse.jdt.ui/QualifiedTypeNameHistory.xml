@@ -57,7 +57,7 @@
 <fullyQualifiedTypeName name="org.mockito.Spy"/>
 <fullyQualifiedTypeName name="org.hibernate.query.criteria.internal.expression.SearchedCaseExpression.WhenClause"/>
 <fullyQualifiedTypeName name="org.mockito.InjectMocks"/>
-<fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="org.springframework.security.access.intercept.aspectj.AspectJMethodSecurityInterceptor"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
 </qualifiedTypeNameHistroy>

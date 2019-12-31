@@ -2,7 +2,10 @@ package com.validation.controllertest;
 
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.when;
+
 import java.sql.Date;
+
+import javax.mail.MessagingException;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -54,7 +57,7 @@ public class ControllerTest {
 	}
 
 	@Test
-	public void saveTest() {
+	public void saveTest() throws MessagingException {
 		Employee emp = empDetails();
 		when(service.saveAllData(emp)).thenReturn(success);
 		ResponseEntity<Object> saveAllData = homeController.saveAllData(emp);
@@ -63,7 +66,7 @@ public class ControllerTest {
 	}
 	
 	@Test
-	public void firstNameTest() {
+	public void firstNameTest() throws MessagingException {
 		Employee emp = empDetails();
 		emp.setFirstName("123456789");
 		when(service.saveAllData(emp)).thenReturn(failure);
@@ -153,6 +156,14 @@ public class ControllerTest {
 		ResponseEntity<Object> saveAllData = homeController.saveAllData(employee);
 		HttpStatus statusCode = saveAllData.getStatusCode();
 		assertEquals(HttpStatus.CONFLICT, statusCode);
+	}
+	@Test
+	public void saveTest1() {
+		Employee emp = empDetails();
+		when(service.message("aaa")).thenReturn(success);
+		ResponseEntity<Object> saveAllData = homeController.message("aaa");
+		HttpStatus statusCode = saveAllData.getStatusCode();
+		assertEquals(HttpStatus.OK, statusCode);
 	}
 
 }

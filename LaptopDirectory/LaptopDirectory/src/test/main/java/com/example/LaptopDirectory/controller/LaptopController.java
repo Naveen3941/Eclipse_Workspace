@@ -1,4 +1,4 @@
-package com.example.LaptopDirectory.Controller;
+package com.example.LaptopDirectory.controller;
 
 import java.util.List;
 import java.util.Optional;

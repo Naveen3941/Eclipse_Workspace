@@ -13,5 +13,5 @@ public interface HomeRepository extends JpaRepository<Employee, Long> {
 	@Transactional
 	@Modifying
 	@Query(value = "update registration u set u.active_registration_status = ? where u.first_name = ?", nativeQuery = true)
-	public void updateEmployeeSetEmailForIdNative(String activeRegistrationStatus, String firstName);
+	public boolean updateEmployeeSetEmailForIdNative(String activeRegistrationStatus, String firstName);
 }

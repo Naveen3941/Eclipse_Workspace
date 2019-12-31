@@ -39,6 +39,11 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\eclipse_workspace\Eclipse_Workspace\SpringSecurityExample"/>
+			<item value="D:\eclipse_workspace\Eclipse_Workspace\SpringJdbcTemplateExample"/>
+			<item value="D:\eclipse_workspace\Eclipse_Workspace\SendingEmailApplication"/>
+			<item value="D:\eclipse_workspace\Eclipse_Workspace\LaptopDirectory"/>
+			<item value="D:\eclipse_workspace\Eclipse_Workspace\H2IntegrationWithSpringBoot"/>
 			<item value="D:\eclipse_workspace\Eclipse_Workspace\jpaOneToOne_Mapping"/>
 			<item value="C:\Users\nc19413\Desktop\mappings\jpaOneToOne_Mapping"/>
 			<item value="D:\eclipse_workspace\Eclipse_Workspace\SpringRegistrationWithValidation"/>
@@ -49,11 +54,6 @@
 			<item value="C:\Users\nc19413\Downloads\SendingEmailApplication"/>
 			<item value="C:\Users\nc19413\Desktop\Naveen\AngularExample1"/>
 			<item value="C:\Users\nc19413\Downloads\AngularExample1"/>
-			<item value="D:\Naveen(19413)\obs-timesheet"/>
-			<item value="C:\Users\nc19413\Downloads\SpringSecurityExample"/>
-			<item value="C:\Users\nc19413\Downloads\SpringJdbcTemplateExample"/>
-			<item value="C:\Users\nc19413\Downloads\EmployeesDatabase (1)"/>
-			<item value="C:\Users\nc19413\Downloads\EmployeesDatabase"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
