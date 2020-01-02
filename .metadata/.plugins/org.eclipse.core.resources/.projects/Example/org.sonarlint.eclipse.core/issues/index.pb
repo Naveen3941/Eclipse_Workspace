@@ -121,3 +121,7 @@ I
 src/pattern/Pattern7.java,c\0\c08d5908593707bbad5adad1120e31f7177ca514
 I
 src/pattern/Pattern8.java,c\6\c670019d87a0c9e57b0b2292fb49d2758a5cb4bb
+K
+src/com/test/TestDebug.java,c\2\c256a7ac47bcc9b83b75e9050517ce44685ee61e
+H
+src/pattern/Diamond.java,c\0\c0337d0548f939544986789394fe940f0395c596

@@ -1,23 +1,23 @@
 
-‚squid:S3776+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ØÁŸ¦Hë7RCRITICALZ
+isquid:S2629-"7Use the built-in formatting to construct this argument.(û½û†ûÿÿÿÿH°CRMAJORZ
 CODE_SMELL
-‹squid:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¨ıËüÿÿÿÿHì7RMINORZ
+‹squid:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¨ıËüÿÿÿÿH±CRMINORZ
 CODE_SMELL
-‹squid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤À¯¡ùÿÿÿÿHí7RMINORZ
+‹squid:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤À¯¡ùÿÿÿÿH²CRMINORZ
 CODE_SMELL
-isquid:S2629-"7Use the built-in formatting to construct this argument.(û½û†ûÿÿÿÿHî7RMAJORZ
+‹squid:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤À¯¡ùÿÿÿÿH³CRMINORZ
 CODE_SMELL
-‹squid:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤À¯¡ùÿÿÿÿHï7RMINORZ
+‹squid:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤À¯¡ùÿÿÿÿH´CRMINORZ
 CODE_SMELL
-ssquid:S3457-"AFormat specifiers should be used instead of string concatenation.(û½û†ûÿÿÿÿHğ7RMAJORZ
+‹squid:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¨ıËüÿÿÿÿHµCRMINORZ
 CODE_SMELL
-‹squid:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¨ıËüÿÿÿÿHñ7RMINORZ
+ssquid:S3457-"AFormat specifiers should be used instead of string concatenation.(û½û†ûÿÿÿÿH¶CRMAJORZ
 CODE_SMELL
-nsquid:S3457a"AFormat specifiers should be used instead of string concatenation.(¸•³Hò7RMAJORZ
+‹squid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤À¯¡ùÿÿÿÿH·CRMINORZ
 CODE_SMELL
-‹squid:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤À¯¡ùÿÿÿÿHó7RMINORZ
+nsquid:S3457a"AFormat specifiers should be used instead of string concatenation.(¸•³H¸CRMAJORZ
 CODE_SMELL
-‹squid:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤À¯¡ùÿÿÿÿHô7RMINORZ
+‚squid:S3776+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ØÁŸ¦H¹CRCRITICALZ
 CODE_SMELL
-dsquid:S2629a"7Use the built-in formatting to construct this argument.(¸•³Hõ7RMAJORZ
+dsquid:S2629a"7Use the built-in formatting to construct this argument.(¸•³HºCRMAJORZ
 CODE_SMELL

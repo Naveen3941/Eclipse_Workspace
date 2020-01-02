@@ -29,16 +29,14 @@ public class HomeService {
 		String token = UUID.randomUUID().toString();
 		String url
 		=  "http://localhost:8089/activate" ;
-
 		helper.setTo(email);
 		helper.setText("Hi " + emp.getFirstName() + " you have succesfully registration   "+url+"/"+emp.getFirstName());
-		
 		helper.setSubject("Mail From Spring Boot");
 		sender.send(helper);
 		if(save != null) {
-			return new ResponseEntity<Object>("registration successfully", HttpStatus.OK);
+			return new ResponseEntity<>("registration successfully", HttpStatus.OK);
 		}else {
-			return new ResponseEntity<Object>("registration failed",HttpStatus.UNPROCESSABLE_ENTITY);
+			return new ResponseEntity<>("registration failed",HttpStatus.UNPROCESSABLE_ENTITY);
 		}
 	}
 
@@ -46,7 +44,7 @@ public class HomeService {
 		System.out.println("Inserted.............");
 		
 		boolean b=repo.updateEmployeeSetEmailForIdNative("true", id);
-		if(b== true) {
+		if(b) {
 			return new ResponseEntity<>("registration successfully", HttpStatus.OK);
 		}else {
 			return new ResponseEntity<>("registration failed",HttpStatus.UNPROCESSABLE_ENTITY);

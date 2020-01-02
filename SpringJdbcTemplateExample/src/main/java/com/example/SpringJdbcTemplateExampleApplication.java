@@ -1,12 +1,13 @@
-package com.validation;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringRegistrationWithValidationApplication {
+public class SpringJdbcTemplateExampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringRegistrationWithValidationApplication.class, args);
+		SpringApplication.run(SpringJdbcTemplateExampleApplication.class, args);
 	}
+
 }

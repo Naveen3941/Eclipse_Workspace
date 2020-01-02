@@ -74,7 +74,7 @@ public class ServiceTest {
 	}
 	
 	@Test
-	public void saveTest1() {
+	public void saveAllDataTest() {
 		Employee emp = empDetails();
 		Employee save = homeRepository.save(emp);
 		when(save).thenReturn(null);
@@ -85,5 +85,31 @@ public class ServiceTest {
 		assertEquals(HttpStatus.UNPROCESSABLE_ENTITY, statusCode);
 
 	}
+	
+	@Test
+	public void messageTest() {
+		Employee emp = empDetails();
+		 boolean updateEmployeeSetEmailForIdNative = homeRepository.updateEmployeeSetEmailForIdNative("true", emp.getFirstName());
+		when(updateEmployeeSetEmailForIdNative).thenReturn(true);
+		ResponseEntity<Object> saveAllData = homeService.message(emp.getFirstName());
+		System.out.println(saveAllData);
+		HttpStatus statusCode = saveAllData.getStatusCode();
+		assertEquals(HttpStatus.OK, statusCode);
+
+	}
+	
+
+	@Test
+	public void messageTest1() {
+		Employee emp = empDetails();
+		 boolean updateEmployeeSetEmailForIdNative = homeRepository.updateEmployeeSetEmailForIdNative("true", emp.getFirstName());
+		when(updateEmployeeSetEmailForIdNative).thenReturn(false);
+		ResponseEntity<Object> saveAllData = homeService.message(emp.getFirstName());
+		System.out.println(saveAllData);
+		HttpStatus statusCode = saveAllData.getStatusCode();
+		assertEquals(HttpStatus.UNPROCESSABLE_ENTITY, statusCode);
+
+	}
+
 
 }

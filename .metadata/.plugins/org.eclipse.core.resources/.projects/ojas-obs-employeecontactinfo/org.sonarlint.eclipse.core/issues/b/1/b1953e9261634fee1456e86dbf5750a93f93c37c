@@ -1,23 +1,23 @@
 
-rsquid:S2147x"ECombine this catch with the one at line 115, which has the same body.(»Œ¿éHÐ7RMINORZ
+ssquid:S2147£"ECombine this catch with the one at line 157, which has the same body.(»Œ¿éH»CRMINORZ
 CODE_SMELL
-‡squid:S3776,"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(…‰×ïúÿÿÿÿHÑ7RCRITICALZ
+†squid:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶ôÈÒH¼CRMINORZ
 CODE_SMELL
-†squid:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶ôÈÒHÒ7RMINORZ
+‡squid:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶H½CRMINORZ
 CODE_SMELL
-‡squid:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶HÓ7RMINORZ
+rsquid:S2147x"ECombine this catch with the one at line 115, which has the same body.(»Œ¿éH¾CRMINORZ
 CODE_SMELL
-‘squid:S1192u"\Define a constant instead of duplicating this literal "duplicate's are not allowed" 4 times.(áñ ¿þÿÿÿÿHÔ7RCRITICALZ
+Œsquid:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¨ýËüÿÿÿÿH¿CRMINORZ
 CODE_SMELL
-†squid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶HÕ7RMINORZ
+Œsquid:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¨ýËüÿÿÿÿHÀCRMINORZ
 CODE_SMELL
-Œsquid:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¨ýËüÿÿÿÿHÖ7RMINORZ
+‡squid:S3776,"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(…‰×ïúÿÿÿÿHÁCRCRITICALZ
 CODE_SMELL
-‡squid:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶H×7RMINORZ
+Œsquid:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¨ýËüÿÿÿÿHÂCRMINORZ
 CODE_SMELL
-ssquid:S2147£"ECombine this catch with the one at line 157, which has the same body.(»Œ¿éHØ7RMINORZ
+‘squid:S1192u"\Define a constant instead of duplicating this literal "duplicate's are not allowed" 4 times.(áñ ¿þÿÿÿÿHÃCRCRITICALZ
 CODE_SMELL
-Œsquid:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¨ýËüÿÿÿÿHÙ7RMINORZ
+‡squid:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶HÄCRMINORZ
 CODE_SMELL
-Œsquid:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¨ýËüÿÿÿÿHÚ7RMINORZ
+†squid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ç¹¶HÅCRMINORZ
 CODE_SMELL

@@ -5,8 +5,6 @@ import static org.mockito.Mockito.when;
 
 import java.sql.Date;
 
-import javax.mail.MessagingException;
-
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.InjectMocks;
@@ -20,6 +18,7 @@ import com.validation.controller.HomeController;
 import com.validation.model.Employee;
 import com.validation.model.ErrorResponse;
 import com.validation.service.HomeService;
+import com.validation.validations.ValidationClass;
 
 public class ControllerTest {
 	@InjectMocks
@@ -36,6 +35,8 @@ public class ControllerTest {
 	ResponseEntity<Object> failure = new ResponseEntity<>(errorResponse, HttpStatus.UNPROCESSABLE_ENTITY);
 	@Spy
 	ResponseEntity<Object> conflict = new ResponseEntity<>(errorResponse, HttpStatus.CONFLICT);
+	@Spy
+	ValidationClass valid = new ValidationClass();
 
 	@Before
 	public void init() {
@@ -57,16 +58,16 @@ public class ControllerTest {
 	}
 
 	@Test
-	public void saveTest() throws MessagingException {
+	public void saveTest() {
 		Employee emp = empDetails();
 		when(service.saveAllData(emp)).thenReturn(success);
 		ResponseEntity<Object> saveAllData = homeController.saveAllData(emp);
 		HttpStatus statusCode = saveAllData.getStatusCode();
 		assertEquals(HttpStatus.OK, statusCode);
 	}
-	
+
 	@Test
-	public void firstNameTest() throws MessagingException {
+	public void firstNameTest() {
 		Employee emp = empDetails();
 		emp.setFirstName("123456789");
 		when(service.saveAllData(emp)).thenReturn(failure);
@@ -74,6 +75,7 @@ public class ControllerTest {
 		HttpStatus statusCode = saveAllData.getStatusCode();
 		assertEquals(HttpStatus.UNPROCESSABLE_ENTITY, statusCode);
 	}
+
 	@Test
 	public void lastNameTest() {
 		Employee emp = empDetails();
@@ -83,6 +85,7 @@ public class ControllerTest {
 		HttpStatus statusCode = saveAllData.getStatusCode();
 		assertEquals(HttpStatus.UNPROCESSABLE_ENTITY, statusCode);
 	}
+
 	@Test
 	public void dateOfBirthTest() {
 		Employee emp = empDetails();
@@ -92,7 +95,7 @@ public class ControllerTest {
 		HttpStatus statusCode = saveAllData.getStatusCode();
 		assertEquals(HttpStatus.UNPROCESSABLE_ENTITY, statusCode);
 	}
-	
+
 	@Test
 	public void mobileNumberTest() {
 		Employee emp = empDetails();
@@ -102,6 +105,7 @@ public class ControllerTest {
 		HttpStatus statusCode = saveAllData.getStatusCode();
 		assertEquals(HttpStatus.UNPROCESSABLE_ENTITY, statusCode);
 	}
+
 	@Test
 	public void mobileNumber2Test() {
 		Employee emp = empDetails();
@@ -111,6 +115,7 @@ public class ControllerTest {
 		HttpStatus statusCode = saveAllData.getStatusCode();
 		assertEquals(HttpStatus.UNPROCESSABLE_ENTITY, statusCode);
 	}
+
 	@Test
 	public void genderTest() {
 		Employee emp = empDetails();
@@ -120,6 +125,7 @@ public class ControllerTest {
 		HttpStatus statusCode = saveAllData.getStatusCode();
 		assertEquals(HttpStatus.UNPROCESSABLE_ENTITY, statusCode);
 	}
+
 	@Test
 	public void emailTest() {
 		Employee emp = empDetails();
@@ -129,6 +135,7 @@ public class ControllerTest {
 		HttpStatus statusCode = saveAllData.getStatusCode();
 		assertEquals(HttpStatus.UNPROCESSABLE_ENTITY, statusCode);
 	}
+
 	@Test
 	public void userNameTest() {
 		Employee emp = empDetails();
@@ -138,7 +145,7 @@ public class ControllerTest {
 		HttpStatus statusCode = saveAllData.getStatusCode();
 		assertEquals(HttpStatus.UNPROCESSABLE_ENTITY, statusCode);
 	}
-	
+
 	@Test
 	public void passwordTest() {
 		Employee emp = empDetails();
@@ -148,7 +155,7 @@ public class ControllerTest {
 		HttpStatus statusCode = saveAllData.getStatusCode();
 		assertEquals(HttpStatus.UNPROCESSABLE_ENTITY, statusCode);
 	}
-	
+
 	@Test
 	public void exceptionTest() {
 		employee = null;
@@ -157,9 +164,9 @@ public class ControllerTest {
 		HttpStatus statusCode = saveAllData.getStatusCode();
 		assertEquals(HttpStatus.CONFLICT, statusCode);
 	}
+
 	@Test
 	public void saveTest1() {
-		Employee emp = empDetails();
 		when(service.message("aaa")).thenReturn(success);
 		ResponseEntity<Object> saveAllData = homeController.message("aaa");
 		HttpStatus statusCode = saveAllData.getStatusCode();
