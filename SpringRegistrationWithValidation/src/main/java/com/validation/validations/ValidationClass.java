@@ -1,7 +1,11 @@
 package com.validation.validations;
 
 import java.sql.Date;
+import java.time.LocalDate;
+import java.time.chrono.ChronoLocalDate;
 import java.util.regex.Pattern;
+
+import javax.persistence.criteria.CriteriaBuilder.In;
 
 public class ValidationClass {
 	
@@ -12,14 +16,24 @@ public class ValidationClass {
 	}
 
 	public static boolean isValidateDate(Date name) {
-		long millis = System.currentTimeMillis();
-		java.sql.Date date = new java.sql.Date(millis);
-		if (date.compareTo(name) < 0) {
+		
+		
+		 long millis=System.currentTimeMillis();  
+	        java.sql.Date date=new java.sql.Date(millis);  
+	        System.out.println(name+"..."+date);
+	        String check1=name.toString();
+	        String check2=date.toString();
+	        System.out.println(check1.substring(0,4)+"..."+check2.substring(0,4));
+	        int res1=Integer.parseInt(check1.substring(0,4));
+	        int res2=Integer.parseInt(check2.substring(0,4));
+	        int c=res2-res1;
+	        System.out.println(c);
+	        if(c>18 && c<80)
+	        {
+	        	return false;
+	        }
 
-			return true;
-		}
-
-		return false;
+		return true;
 
 	}
 
@@ -47,7 +61,11 @@ public class ValidationClass {
 
 	public static boolean isValidateEmail(String number) {
 
-		return Pattern.matches("^[_A-Za-z0-9-]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$",
+		//return Pattern.matches("^[_A-Za-z0-9-]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9_-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$",
+			//	number);
+		
+		//System.out.println(Pattern.matches("([a-zA-Z0-9]*)([@]?)([a-zA-Z]*)", "a11sddddsffff@a"));//true
+		return Pattern.matches("^[_A-Za-z0-9-]*@[A-Za-z0-9_-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$",
 				number);
 
 	}

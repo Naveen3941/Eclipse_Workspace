@@ -125,3 +125,25 @@ K
 src/com/test/TestDebug.java,c\2\c256a7ac47bcc9b83b75e9050517ce44685ee61e
 H
 src/pattern/Diamond.java,c\0\c0337d0548f939544986789394fe940f0395c596
+H
+src/pattern/Pyramid.java,4\1\411c5da36916014781045bec026f0fce737202ad
+P
+ src/recursive/StringReverse.java,1\c\1c4289e4c13e63a589824f201f85cc5b53104653
+U
+%src/recursive/DuplicateCharacter.java,3\3\33a3b4b5751bb2d356ba0ca26e94ca13cf112edc
+J
+src/recursive/Anagram.java,e\1\e1ad56615b9936ef634f0000af1928b4c626f010
+K
+src/recursive/LessThan.java,f\5\f5e5264d07186910bf1e4b59c46c3bb0e2e1a9d5
+`
+0src/recursive/WithOutThirdVariableinStrings.java,e\e\ee95ef7ab4cabb89278eb29b01219c046a036c37
+V
+&src/recursive/PermutationOfString.java,4\3\43615c2ccb9947feaf77c3cf8fa89eba3fa7c514
+U
+%src/recursive/FactorialRecursive.java,b\e\be10a97dcccda6e6300138918336b59700fa91e4
+M
+src/recursive/Recursion2.java,d\1\d1769a6f8955babb3843d6222624bf301533fe59
+U
+%src/recursive/InheritanceExample.java,f\a\fa3cf9d830b30b58187a317ecefe2ac3ae54dd2a
+Z
+*src/collection/HashMapInternalWorking.java,a\4\a4aba0a81c2dbf0a77c050e7a20ecf8c29a2ab38
