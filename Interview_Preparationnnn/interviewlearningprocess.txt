@@ -1,0 +1,213 @@
+->how to introduction our self ;
+
+  tell me about yourself?
+
+Good Morning Sir, I am Naveen. Currently I am working with Ojas Innovative Technologies.
+having 4.6years of experience in Java 1.7, Spring and Hibernate. i am also aware about
+deployment in Jboss.
+My current project is OBS means Ojas Business Suite. it is our internal project. it is web based 
+application.
+
+-> we have to know how to explain our project and clearly know about modules how to tell;
+
+->cover all core java concepts, Collections, Multithreading and Exceptional Handling;
+***********************************************************************************************Maven
+->what is maven;
+
+  ->Maven is a Project Management Tool. it is used for projectsbuild and dependency.
+  ->Maven project eliminates the adding set of jars in each project.
+       ->what is Build Tool?
+   ->A Build tool take care of everything for building a process. generate the source code,compiles source code,
+     packages compiled code into JAR of ZIP file,install the packages code in local repository,server repository and central repository.
+    ->There are three types of Repositories?
+       ->Local Repositories:means .m2 file in your system.
+       ->Central Repositories: is located on the web. it has been created by the apache maven community itself.
+       ->Remote Repositories:company specific library or custom library.
+****************************************************************************************************Github
+->what is github;
+
+->what is restful webservice;
+********************************************************************************************Hibernate
+->what is hibernate;
+
+  -> Hibernate is an framework simplifies the development of java application to interact with the database.
+
+   -> Hibernate is an opensource and light weight.
+  
+   -> internally hibernate uses ORM tool means object relation mapping. it is programming technique that maps the object data stored in the database.
+
+   ->fast performance means there are two types of cache in hibernate. 1st level cache is enable by default.
+
+   ->Hql means hibernate query language it is independent query language. you dont need to write data base specific queries. for example if u are using mysql database but your requirement to change 
+     oracle database it will lead problems incase you use hibernate you can resolove that problem.
+
+   ->Hibenate framework provides the facility to create the tables of database automatically.
+
+   ->Simplifies complex joins means to fetch data from multiple tables is easy in hibernate framework.
+
+-> Hibernate Architecture?
+   
+   -> The Hibernate architecture includes many objects like persistent object, session factory, transcation factory, connection factory, session and transcation.
+ 
+   -> there are four layers in hibernate
+               >java application layer
+               >hibernate framework layer
+               >backend api layer
+               >database layer
+
+-> Elements of Hibernate Architecture?
+
+    Session Factory:  > sessionfactory object build through confuguration object.
+                      > Session Factory object holds for second level cache. 
+                      > org.hibernate.sessionfactory interface has one method. that method provides objects to session.
+                      > one session factory object is heavy weight object. because it stores configuration object and hibernate files data. 
+                      
+
+   Session : > The Session object provides time interval between application starts to end. for example if an application contains many sessions.
+             > If we want to perform any db operation in hibernate session should be required. session.save();
+
+   Transcation : To perform insert,delete  operation we should being a transcation
+
+
+-> What is LazyLoading in Hibernate?
+
+   
+   
+   LazyLoading means improve performance. means in Hibernate 3 onwards lazy loading is enable by default. we no need to write lazy loading is="true" it means not load the child objects when 
+   
+   parent object is loaded.  
+
+->Difference between get and load?
+                                   get                                                                Load
+                                   ---                                                                ----
+    1. Return null if an object is not found.                                              1.Throws ObjectNotFoundException if an object is not found.
+    2. get method always hit the database.                                                 2.load method doesnot hit the database.    
+    3. it return the real object not proxy object.                                          3.it returns the proxy object.
+
+-> Difference between Hibernate, ORM and JPA?
+
+   Hibernate: Hibernate is java framework. to interact with javaapplication and database.
+
+   ORM:       ORM is an tool. in internally hibernate uses orm tool. ORM means object releational mapping to map the java objects and data stored in the database.
+
+   JPA:     JPA is a java persistance API . jpa is an specification it will not perform any operation by itself. it is implemented of Hibernate.
+            (for example if application uses the java api and implementation of hibernate. if you want to switch hibernate to iBatis it is easy to switch. in other case if you are not use
+             jpa api it is very hard  to switch.)
+
+
+***********************************************************************************Jenkins
+-> What is Jenkins?
+   
+   Jenkins means Continuous development and continuous integration.  
+
+->what is spring coniguration and done with 1 example;
+
+->spring boot annotation;
+
+->how to tell which technologies we are used;
+
+-> What is Log4j?
+   Log4j is a framework. framework means semi build application means a common code will be already developed.
+
+->Difference between HashTable and HashMap?
+
+  HashTable is also key and value pair format. HashTable is Synchronized. means at a time allow only one thread. HashTable does not allow null key and null value.
+
+  HashMap also key and value pair format. HashMap is not Synchronized. HashMap allows one null key and multiple null values.
+
+-> Why we are moving into Spring MVC?
+
+   because of easy to work with, flexibility,seperation of concern.
+
+-> Explain about Memory Model?
+    Register is memory area
+
+-> What is JIRA?
+   JIRA is a Project Management Tool. we can manage the defects, we can manage the test cases,  we can manage the sprint, we can manage the project. we can do lot more things in JIRA.
+    https://jira.ojas.com/ this is url from jira. 
+
+-> what is java streams?
+   Stream is does not store the elements. it is import java.util.stream;
+   int a[]={2,5,6,7,8,9};
+   
+   we want to find min value in the array.
+   int min=IntStream.of(a).min().getAsInt(); 
+    
+   we can find min,max,sum and avg.
+   IntSummaryStatstices statstices=IntStream.of(a).summaryStatstices(); it will print all min,max,sum,avg values;
+   system.out.println(stastices);
+    
+   if we want to find first three numbers and not allow duplicates
+   IntStream.of(a).distinict.sorted.limit(3).sum();
+
+  
+  l2.stream().sorted(Comparator.comparingInt(EmployeeModel::getPincode).reversed()).limit(3).map(EmployeeModel::getName).forEach(System.out::println);
+
+
+
+l2.stream().sorted(Comparator.comparingInt(EmployeeModel::getPincode).reversed()).limit(3).map(EmployeeModel::getName).forEach(System.out::println);
+
+-> How to create a  resource in restful web service?
+  
+
+
+
+
+what is marker inteface?
+ 
+if an interface have no methods is called marker interface. we have to check by using instanceOf 
+operator that object is belongs to that interface or not.
+
+package example;
+interface Permission {
+	
+}
+public class MarkableInterfaceExample implements Permission{
+        static void show()
+        {
+        	System.out.println("showwwwwww");
+        }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+          MarkableInterfaceExample m=new MarkableInterfaceExample();
+          if(m instanceof Permission)
+          {
+        	 show();
+          }
+          else
+          {
+        	  System.out.println("not permission......");
+          }
+	}
+
+}
+
+
+-> What is Serialization?
+
+Serialization means converting the object state into bytestream is called serialization. deserialization means converting byte stream into object stream is called deserialization.
+
+-> What is Immutable Object in Java? How we can create our own Immutable class in java.
+
+    Immutable class means that once an object is created we can not change the value is called Immutable Class. In java all the wrapper class like Integer,boolean,byte,short and String class is 
+    
+     Immutable.
+    -> The class Must be declared as final and data member variable must be as final.
+
+-> Regular Expression in Password?
+
+  Password validation regexp
+--------------------------
+ ^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$
+ This regex will enforce these rules:
+ At least one upper case English letter, (?=.*?[A-Z])
+ At least one lower case English letter, (?=.*?[a-z])
+ At least one digit, (?=.*?[0-9])
+ At least one special character, (?=.*?[#?!@$%^&*-])
+ Minimum eight in length .{8,} (with the anchors)
+
+Email Validations
+-------------------------------
+1. return Pattern.matches("^[_A-Za-z0-9-]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9_-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$",number);
+
+2.System.out.println(Pattern.matches("([a-zA-Z0-9]*)([@]{1})([a-zA-Z]*)([.]+)([a-zA-Z]*)([.]?)([a-zA-Z]*)", "a11sdddds@ffffammm.com.in"));

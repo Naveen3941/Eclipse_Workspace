@@ -1,0 +1,33 @@
+what is marker inteface?
+ 
+if an interface have no methods is called marker interface. we have to check by using instanceOf 
+operator that object is belongs to that interface or not.
+
+package example;
+interface Permission {
+	
+}
+public class MarkableInterfaceExample implements Permission{
+        static void show()
+        {
+        	System.out.println("showwwwwww");
+        }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+          MarkableInterfaceExample m=new MarkableInterfaceExample();
+          if(m instanceof Permission)
+          {
+        	 show();
+          }
+          else
+          {
+        	  System.out.println("not permission......");
+          }
+	}
+
+}
+
+
+What is Serialization?
+
+Serialization means converting the object state into bytestream is called serialization. deserialization means converting byte stream into object stream is called deserialization.
