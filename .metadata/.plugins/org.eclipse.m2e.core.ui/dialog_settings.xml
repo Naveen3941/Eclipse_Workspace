@@ -39,6 +39,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\eclipse_workspace\Eclipse_Workspace\Spring5JMSProviderApp"/>
 			<item value="D:\eclipse_workspace\Eclipse_Workspace\SpringJdbcTemplateExample1"/>
 			<item value="D:\eclipse_workspace\Eclipse_Workspace\SpringJdbcTemplateExample"/>
 			<item value="D:\eclipse_workspace\Eclipse_Workspace\SpringSecurityExample"/>
@@ -53,7 +54,6 @@
 			<item value="C:\Users\nc19413\Downloads\SpringOnetoManyAnnotation"/>
 			<item value="C:\Users\nc19413\Downloads\h2database-master\H2IntegrationWithSpringBoot"/>
 			<item value="C:\Users\nc19413\Downloads\SendingEmailApplication"/>
-			<item value="C:\Users\nc19413\Desktop\Naveen\AngularExample1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

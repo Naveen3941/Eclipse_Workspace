@@ -9,6 +9,7 @@ public class Example1 {
 		List<String> l1=new ArrayList<String>();
 		l1.add("aaa");
 		l1.add("bbb");
+		l1.add("bbb");
 		Collections.fill(l1, "kl");
 		
 		for(String m:l1)

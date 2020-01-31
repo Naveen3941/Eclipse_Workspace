@@ -10,7 +10,7 @@ public class FileSafeAndFailFast {
 
 	public static void main(String[] args) {
           Integer a=153;
-          System.out.println(a.reverse(0));
+          System.out.println(a.reverse(1));
           String b=String.valueOf(a);
           System.out.println(b);
 		List<String> l1=new CopyOnWriteArrayList<>();

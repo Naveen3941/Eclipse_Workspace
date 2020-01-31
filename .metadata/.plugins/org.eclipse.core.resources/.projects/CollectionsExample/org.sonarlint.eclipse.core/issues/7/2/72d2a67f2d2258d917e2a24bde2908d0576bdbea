@@ -1,16 +1,7 @@
 
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(üµ«ô8¥åÊÓ-H©RMAJORZ
+qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ô¼¤ÊÓ-HôHRMINORZ
 CODE_SMELL
-qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ô¼¤ÊÓ-H¦RMINORZ
+nsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ÁÜÊÓ-HõHRMINORZ
 CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8ÁÜÊÓ-H RMAJORZ
-CODE_SMELL
-nsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ÁÜÊÓ-HŸRMINORZ
-CODE_SMELL
-isquid:S2209"5Change this instance-reference to a static reference.(üµ«ô8ëµúÊÓ-H¯RMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.( ¥¬ç8ëµúÊÓ-H°RMAJORZ
+isquid:S2209"5Change this instance-reference to a static reference.(‚ô×ª8ëµúÊÓ-HöHRMAJORZ
 CODE_SMELL

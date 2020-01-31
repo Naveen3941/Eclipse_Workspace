@@ -211,3 +211,10 @@ Email Validations
 1. return Pattern.matches("^[_A-Za-z0-9-]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9_-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$",number);
 
 2.System.out.println(Pattern.matches("([a-zA-Z0-9]*)([@]{1})([a-zA-Z]*)([.]+)([a-zA-Z]*)([.]?)([a-zA-Z]*)", "a11sdddds@ffffammm.com.in"));
+
+
+Only Allowed for Special Symbol
+-------------------------------
+
+System.out.println(Pattern.matches("((\\()*)((\\+)*)((\\))*)((\\[)*)((\\])*)((\\.)*)((\\,)*)((\\-)*)((\\u0020)*)", 
+			"(+))[].,  "));

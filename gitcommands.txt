@@ -1,0 +1,15 @@
+-> First step we have to create Repository in Github.
+
+-> Next Step we have to create new folder in desktop
+
+-> then we have to open in cmd and git repository url.
+
+-> next we have to check the status command ( git status)
+
+-> git add .
+
+-> next we have to check again status if it is properly inserted or not.
+
+-> git commit -m "Just now i Inserted..."
+
+->git push -u origin master 
